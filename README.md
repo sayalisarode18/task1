@@ -1,3 +1,3 @@
-# OIBGRIP
+# SPARK
 task1
  
